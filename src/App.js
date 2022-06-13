@@ -9,7 +9,8 @@ import Clients from './components/clients/clients';
 import Menu from './components/Menu/menu';
 import Order from './components/orders/order';
 import Profile from './components/profile/restaurant';
-import Footer from './components/UI/footer';
+// import footer from './components/UI/footer';
+
 
 
 const App = () => {
@@ -27,7 +28,7 @@ const App = () => {
        <Route path='/orders' element={<Order />}></Route>
        <Route path='/profile' element={<Profile />}></Route>
      </Routes>
-     <Footer />
+   
    </BrowserRouter>
 
  )

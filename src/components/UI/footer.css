@@ -158,17 +158,17 @@ h3{
 .column4{
     position: relative;
     bottom:396px;
-    left:1500px;
+    left:1480px;
 }
 .column4 p{
     position: relative;
-    left:55px;
+    left:65px;
     top:5px;
 }
 .app-store{
     position: relative;
     bottom:16px;
-    left:70px;
+    left:60px;
 
 }
 
@@ -185,13 +185,12 @@ h3{
 }
 .play-store{
     position: relative;
-    left:80px;
+    left:64px;
     bottom:35px;
 }
 hr{
     position: relative;
     bottom:360px;
-    /* width:90%; */
     
 }
 .last-words{
